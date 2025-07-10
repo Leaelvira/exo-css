@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0%;
+    scroll-behavior: smooth;
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(228, 249, 228);
+    padding: 20px 40px;
+}
+nav ul{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: green;
+    text-transform: none;
+    color:green;
+    justify-content: space-between;
+} 
+.CONTACT{
+background-color: green;
+color: yellow;
+}
+h1{
+    color: green;
+    padding: 20px;
+}
+.content-image{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    padding: 20px 40px;
+}
+button{
+background-color: green;
+padding: 15px 30px;
+color: white;
+border-radius: 20px;
+text-transform: uppercase;
+margin-top: 20px;
+}
+
+.heading{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.title{
+    font-size: 30px;
+    font-weight: 900;
+}
+.title span{
+    color: green;
+}
+h2 p{
+    display: flex;
+    justify-content: space-between;
+    padding:10px 20px;
+    margin: 10px;
+}
+
+.content-image{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content {
+ list-style-type: none;
+ text-transform: none;
+}
+.fr{
+    text-align: center;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+}
+.techno{
+    border: 2px solid black;
+    padding: 8px;
+    margin-left: 15px;
+    border-radius: 15px;
+}
+.techno.tech-agri{
+    color: #000;
+    font-size: 25px;
+}
+.techno ul{
+   margin-right: 6rem;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+}
+
+h3{
+    text-align: center;
+    color: green;
+    font-size: 30px;
+    font-weight: 900;
+    margin: 20px;
+}
+
+.containe{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px ;
+}
+
+.contenu p{
+    align-items: center;
+   text-transform: capitalize;
+   text-decoration: #000;
+   
+}
+
+.btn{
+   background-color:green; 
+   padding: 3px 3px;
+   color: white;
+   border-radius: 10px;
+   text-transform: uppercase;
+   margin-top: 5px;
+}
+footer{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 20px 30px;
+    justify-content: space-between;
+    border: 3px green solid;
+   background-color: rgb(223, 244, 223);
+    border-bottom: 0px;
+    border-left: white;
+    border-right: white;
+}
+.ft{
+    padding: 20px;
+}
+.re {
+    color: green;
+}
+.li {
+    color: green;
+}
+.ns{
+    color: green;
+}
